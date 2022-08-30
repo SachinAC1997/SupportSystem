@@ -1,0 +1,111 @@
+{
+  "registers": [
+    {
+      "name": "Sachin",
+      "password": "123",
+      "email": "sachin@gmail.com",
+      "query": [
+        {
+          "subject": "faf",
+          "text": "afsf",
+          "resolution": "nnfekjwklnfkl"
+        },
+        {
+          "subject": "ar",
+          "text": "jjgr",
+          "resolution": ""
+        },
+        {
+          "subject": "bwkjnef",
+          "text": "lnnwkd",
+          "resolution": ""
+        },
+        {
+          "subject": "hhdoahowqi",
+          "text": "hoHDWOH",
+          "resolution": ""
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Sachin A C",
+      "password": "123",
+      "email": "sachinac@gmail.com",
+      "query": [
+        {
+          "subject": "opipot9",
+          "text": "265'wejfllf",
+          "resolution": "try it"
+        },
+        {
+          "subject": "alklfkl,",
+          "text": "msmf",
+          "resolution": ""
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Sac",
+      "password": "123",
+      "email": "sac@gmail.com",
+      "query": [],
+      "id": 3
+    },
+    {
+      "name": "Sanjay",
+      "password": "456",
+      "email": "sanjay@gmail.com",
+      "query": [],
+      "id": 4
+    },
+    {
+      "name": "Example",
+      "password": "1234",
+      "email": "exam@gmail.com",
+      "query": [
+        {
+          "subject": "first query",
+          "text": "please slove",
+          "resolution": ""
+        },
+        {
+          "subject": "second",
+          "text": "try",
+          "resolution": ""
+        },
+        {
+          "subject": "hdhhd",
+          "text": "jojsdojisa",
+          "resolution": "jioiasdfoifj"
+        },
+        {
+          "subject": "jhcjejk",
+          "text": "kjbwefjkjkf",
+          "resolution": ""
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "random",
+      "password": "1234",
+      "email": "random@gmail.com",
+      "query": [
+        {
+          "subject": "information",
+          "text": "random ",
+          "resolution": "jwojlkjmclkew"
+        }
+      ],
+      "id": 6
+    }
+  ],
+  "support": [
+    {
+      "name": "support",
+      "password": "1234"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+* {
+  box-sizing: border-box;
+  border: none;
+  padding: none;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+html {
+  font-size: 67.5%;
+}
+
+.register {
+  position: relative;
+  max-width: 300px;
+  min-height: 200px;
+  /* border: 1px solid black; */
+  box-shadow: 1px 1px 5px black;
+  padding: 10px;
+  margin: 150px auto;  
+}
+
+.registerInput {
+  padding: 10px;
+}
+
+.registerInput label {
+  font-size: 1.5rem;
+  font-weight: bold;
+  display: block;
+}
+
+.registerInput input, .registerInput textarea {
+  width: 100%;
+  box-shadow: 1px 1px 3px black;
+  border-radius: 2px;
+  margin-top: 10px;
+  padding: 5px;
+}
+
+.registerCheckBox {
+  margin-left: 10px;
+  font-size: 1.2rem;
+}
+
+.registerButton {
+  padding: 8px;
+  width: 90%;
+  border-radius: 4px;
+  margin-left: 13.5px;
+  box-shadow: 1px 1px 1px black;
+  font-weight: bold;
+  font-size: 1.7rem;
+}
+
+.loginButton {
+  margin-top: 10px;
+}
+
+/* Home page */
+/* Home page */
+/* Home page */
+/* Home page */
+/* Home page */
+/* Home page */
+
+.homeHead {
+  display: flex;
+  box-shadow: 1px 1px 3px black;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+.homeHead .left {
+  flex: 1;
+  font-size: 2.7rem;
+  margin-left: 10px;
+}
+
+.homeHead .right {
+  font-size: 2.7rem;
+  margin-right: 10px;
+}
+
+.homeBody {
+  display: grid;
+  grid-template-columns: 5px 1fr 3fr 5px;
+  min-height: 400px;
+}
+
+.homeBody .homeSupport {
+  display: grid;
+  grid-column: 2/3;
+  box-shadow: 1px 1px 3px black;
+  border-radius: 5px;
+  margin-right: 8px;
+  align-items: center;
+  justify-content: center;
+}
+
+.homeBody .homeSupport button {
+  padding: 5px;
+  font-size: 1.5rem;
+  font-weight: bold;
+  box-shadow: 1px 1px 1px black;
+}
+
+.homeBody .homeQuery {
+  grid-column: 3/4;
+  box-shadow: 1px 1px 3px black;
+  border-radius: 5px;
+}
+
+.homeBody .homeQuery li {
+  list-style-type: decimal-leading-zero;
+  border: 0.5px solid rgba(0, 0, 0, 0.253);
+  padding: 3px;
+  width: 90%;
+  margin: 6px 5px;
+  border-radius: 3px;
+  text-transform: capitalize;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.homeBody .homeQuery li:first-child {
+  margin-top: 25px;
+}
+
+/* SignInUp */
+/* SignInUp */
+/* SignInUp */
+
+.signInUpButton {
+  position: absolute;
+  top: 5%;
+  right: 5%;
+  padding: 10px;
+  font-size: 1.7rem;
+  font-weight: bold;
+  box-shadow: 1px 1px 1px black;
+  border-radius: 5px;
+}
+
+/* Support User */
+/* Support User */
+
+.support {
+  display: flex;
+  box-shadow: 1px 1px 3px black;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+.support .leftSide {
+  flex: 1;
+  font-size: 2.7rem;
+  margin-left: 10px;
+}
+
+.support .rightSide {
+  font-size: 2.7rem;
+  margin-right: 10px;
+}
+
+.supportBody {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 400px;
+  box-shadow: 1px 1px 3px black;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+.supportContent {
+  width: 80%;
+}
+
+.supportContent li {
+  list-style-type: decimal-leading-zero;
+  border: 0.5px solid rgba(0, 0, 0, 0.253);
+  padding: 3px;
+  width: 90%;
+  margin: 6px 5px;
+  border-radius: 3px;
+  text-transform: capitalize;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.logout {
+  font-weight: bold;
+  box-shadow: 1px 1px 3px black;
+}
